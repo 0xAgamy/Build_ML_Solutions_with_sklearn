@@ -1,6 +1,6 @@
 # Build Regression Models
 
-This folder contains a series of Jupyter notebooks dedicated to building, testing, and tuning various regression models using the Automobile dataset from [Kaggle](https://www.kaggle.com/datasets/roger1315/automobiles). Each notebook covers a different aspect of the regression modeling process, from data exploration to advanced model selection and hyperparameter tuning.
+A series of Jupyter notebooks dedicated to building, testing, and tuning various regression models. Each notebook covers a different aspect of the regression modeling process, from data exploration to advanced model selection and hyperparameter tuning.
 
 ## Notebooks Overview
 
@@ -19,7 +19,7 @@ This notebook demonstrates the process of building simple and multiple linear re
 ### 3. [Simple Regression with Categorical Values (Exam Score Prediction)](03.SimpleRegression_CatValues_ExamScore.ipynb)
 This notebook covers handling categorical data for regression tasks, with a focus on preparing data and avoiding common pitfalls:
    - **Standardizing Numeric Data**: Scaling numeric features for consistent model performance.
-   - **Label Encoding and One-Hot Encoding**: Encoding categorical data for regression modeling. 'i called it Shaabanlizition :)'
+   - **Label Encoding and One-Hot Encoding**: Encoding categorical data for regression modeling. *'i called it Shaabalizition :)'*
    - **Linear Regression and the Dummy Trap**: Handling multicollinearity to avoid biased predictions.
 
 ### 4. [Multiple Regression with the Automobile Dataset](04.MultipleRegression_Automobile.ipynb)
@@ -41,8 +41,10 @@ This notebook focuses on optimizing model performance by tuning hyperparameters 
    - **GridSearchCV**: Utilize GridSearchCV to identify the best hyperparameter settings for each model to improve prediction accuracy and performance.
 
 ## Dataset
+The dataset used in this project can be found on :
+   - [Auto Mobile](https://www.kaggle.com/datasets/roger1315/automobiles).
+   - [Exam Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 
-The dataset used in this project can be found on [Kaggle](https://www.kaggle.com/datasets/roger1315/automobiles). It contains information on various automobile features such as engine size, horsepower, and price, which are used to predict target variables.
 
 ## Requirements
 - Python 3.x
@@ -52,9 +54,9 @@ The dataset used in this project can be found on [Kaggle](https://www.kaggle.com
 - numpy
 - matplotlib
 - seaborn
-- plotly
+
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn plotly
+pip install numpy pandas matplotlib seaborn scikit-learn 
 
 ```
