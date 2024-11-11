@@ -1,4 +1,4 @@
-# Data Science and Machine Learning with Python
+# Build Classification Models
 
 This repository Section contains a collection of Jupyter notebooks focused on exploring, analyzing, and building machine learning models using popular datasets and machine learning techniques. The primary dataset used for analysis and modeling in this project is the Titanic dataset, alongside a fashion image dataset (Fashion MNIST).
 
