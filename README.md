@@ -9,6 +9,7 @@ The repository is organized into folders by machine learning task type:
 build-ML-solution-with-sklearn/
 ├── Bulid_Classification_Models/
 ├── Build_Regression_Models/
+├── Build_Clustering_Models/
 └── README.md
 ```
 ## Sections
@@ -19,4 +20,8 @@ This collection of notebooks walks through a variety of classification models an
 ### 2. [Regression Models](https://github.com/0xAgamy/Build_ML_Solutions_with_sklearn/tree/main/Build_Regression_Models)
 #### Overview
 a series of Jupyter notebooks focused on building and evaluating regression models using the automobile and Exams. The notebooks cover a range of topics, from simple linear regression to more advanced techniques such as hyperparameter tuning and building multiple regression models. Each notebook contains structured sections for hands-on learning and model evaluation.
+
+### 3. [Clustering Models](https://github.com/0xAgamy/Build_ML_Solutions_with_sklearn/tree/main/Build_Clustering_Models)
+#### Overview
+This project explores clustering techniques using both the Iris dataset and the MNIST 784 dataset. Through a series of Jupyter notebooks, we investigate various clustering algorithms, evaluate their performance, and fine-tune their hyperparameters. The project demonstrates practical applications of clustering, from simple models to more advanced approaches.
 
