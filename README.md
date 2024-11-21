@@ -10,6 +10,7 @@ build-ML-solution-with-sklearn/
 ├── Bulid_Classification_Models/
 ├── Build_Regression_Models/
 ├── Build_Clustering_Models/
+├── Build_Neural_NetworksModels/
 └── README.md
 ```
 ## Sections
@@ -24,4 +25,8 @@ a series of Jupyter notebooks focused on building and evaluating regression mode
 ### 3. [Clustering Models](https://github.com/0xAgamy/Build_ML_Solutions_with_sklearn/tree/main/Build_Clustering_Models)
 #### Overview
 This project explores clustering techniques using both the Iris dataset and the MNIST 784 dataset. Through a series of Jupyter notebooks, we investigate various clustering algorithms, evaluate their performance, and fine-tune their hyperparameters. The project demonstrates practical applications of clustering, from simple models to more advanced approaches.
+
+### 4. [Neural Networks Models](https://github.com/0xAgamy/Build_ML_Solutions_with_sklearn/tree/main/Build_Clustering_Models)
+#### Overview
+This project demonstrates the power of neural networks in solving a variety of machine learning problems, including regression, classification, and dimensionality reduction. Through carefully crafted Jupyter notebooks, the project showcases practical implementations of Multi-Layer Perceptrons (MLPs) and Restricted Boltzmann Machines (RBMs) on diverse datasets.
 
